@@ -43,3 +43,5 @@ TEMPLATES = [
 
 Vou em views e digito:
 from django.shortcuts import render
+
+## Estudar tailwindCss
